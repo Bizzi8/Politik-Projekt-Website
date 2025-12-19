@@ -64,6 +64,13 @@
     color: #fff;
     margin-left: 2%;
   }
+  .text li {
+    margin-left: 5%;
+    margin-bottom: 3%;
+  }
+  .text li a {
+    color: #fff;
+  }
 }
 
 /*Mobile Site*/
