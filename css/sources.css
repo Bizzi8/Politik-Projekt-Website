@@ -3,6 +3,7 @@
   body {
     background-color: rgb(32, 32, 36);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
   }
 
   .logo {
@@ -45,6 +46,7 @@
   }
 
   .content {
+    padding-top: 5%;
     color: #fff;
     list-style: none;
   }
@@ -64,6 +66,7 @@
     color: #fff;
     margin-left: 2%;
   }
+
   .text li {
     margin-left: 5%;
     margin-bottom: 3%;
@@ -78,6 +81,7 @@
   body {
     background-color: rgb(32, 32, 36);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
   }
 
   .logo {
