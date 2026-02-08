@@ -52,7 +52,7 @@
     border-radius: 25px;
     border: solid;
     border-color: #fff;
-    margin-top: 5%;
+    margin-top: 6em;
     margin-left: 35%;
     width: 490px;
     list-style: none;
@@ -60,10 +60,10 @@
   .articleList #Date {
     color: #fff;
     font-size: xx-large;
-    margin-top: 8%;
+    margin-top: 1em;
   }
   .articleList img {
-    margin-top: 8%;
+    margin-top: 2em;
     height: 15em;
   }
   .articleList quelle {
@@ -72,7 +72,7 @@
   }
   /*Article 1*/
   .articleList TXT li {
-    padding-bottom: 5%;
+    margin-bottom: 3em;
     width: 100%;
     text-align: Left;
   }
@@ -134,16 +134,16 @@
     border-radius: 25px;
     border: solid;
     border-color: #fff;
-    margin-top: 25%;
+    margin-top: 5em;
     list-style: none;
   }
   .articleList #Date {
     color: #fff;
     font-size: xx-large;
-    margin-top: 8%;
+    margin-top: 1em;
   }
   .articleList img {
-    margin-top: 11%;
+    margin-top: 2em;
     height: 10em;
   }
   .articleList quelle {
@@ -152,7 +152,7 @@
   }
   /*Article 1*/
   .articleList TXT li {
-    padding-bottom: 5%;
+    margin-bottom: 3em;
     width: 100%;
     text-align: Left;
     font-size: 13px;
