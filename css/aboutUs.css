@@ -82,11 +82,11 @@
     font-size: 90%;
   }
   nav ul {
-    list-style: none;
     text-align: right;
   }
   nav ul li {
     display: inline-block;
+    list-style: none;
     margin-inline: 2%;
   }
   nav ul li a {
