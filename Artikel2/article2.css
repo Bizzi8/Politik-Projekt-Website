@@ -70,6 +70,9 @@
     padding-bottom: 1.3em;
     width: 100%;
   }
+  .article #FirstParagraph {
+    margin-top: 1em;
+  }
   .article li {
     padding-bottom: 1.3em;
     list-style: none;

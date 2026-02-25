@@ -76,6 +76,10 @@
     width: 100%;
     text-align: Left;
   }
+  .articleList TXT li a p {
+    margin-right: 1em;
+    word-wrap: break-word;
+  }
   .articleList li a {
     color: white;
     text-decoration: none;
